@@ -2,8 +2,8 @@ import os
 from dotenv import load_dotenv
 
 # python3 -m venv venv
-#     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-#     pip install python-dotenv
+# source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+# pip install python-dotenv
 
 load_dotenv()
 
