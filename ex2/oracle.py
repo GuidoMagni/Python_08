@@ -1,5 +1,5 @@
 import os
-from dotenv import load_dotenv
+from dotenv import load_dotenv  # type: ignore
 
 # python3 -m venv venv
 # source venv/bin/activate  # On Windows use `venv\Scripts\activate`
